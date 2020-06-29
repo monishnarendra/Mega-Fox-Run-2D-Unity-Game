@@ -13,5 +13,3 @@ There are only 3 Levels designed.
 
 ## Motivation
 Getting familiar with Unity and C# while developping object-oriented skills.
-
-## Screenshots
