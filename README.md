@@ -6,8 +6,10 @@ There are only 3 Levels designed.
 
 | Control  | Primary | Secondary |
 | -------- | ------- | --------- | 
-| Right    | Right arrow | a |
-| Left   | Content Cell  | d |
+| Right | Right arrow | a |
+| Left | Left arrow | d |
+| Jump | Up arrow | w |
+| Down | Down arrow | s |
 
 ## Motivation
 Getting familiar with Unity and C# while developping object-oriented skills.
